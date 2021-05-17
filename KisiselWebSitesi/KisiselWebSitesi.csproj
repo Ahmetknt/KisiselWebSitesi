@@ -171,7 +171,7 @@
     <Content Include="web-Kişisel Web Site\image\background2.jpg" />
     <Content Include="web-Kişisel Web Site\image\background3.jpg" />
     <Content Include="web-Kişisel Web Site\index.html" />
-    <Content Include="web-Kişisel Web Site\style.css" />
+    <Content Include="web-Kişisel Web Site\style1.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
